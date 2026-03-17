@@ -11,15 +11,15 @@
    📊 [Времева сложност](/Complexity.md) – O(1) → O(nⁿ)
 
 ###  🔹 Recursion
-   🔄 [🎯 Рекурсивни примери](/) – Fibonacci, Binary Search
+   🔄 [🎯 Рекурсивни примери](Binary%20search.cpp) – Fibonacci, Binary Search
 
 ###  🔹 Combinatorics
    🧩 [🔀 Комбинаторика чрез рекурсия](Combinatorika/) – Пермутации, комбинации, вариации (с и без повторения)
 
 ###  🔹 Backtracking
    🌀 [Maze Solver](Maze/) – намиране на път в лабиринт   
-   👑 [Eight Queens](/) – класическата задача   
-   🔢 [Sudoku](/) - Судоку
+   👑 [Eight Queens](Eight_queens.cpp) – класическата задача   
+   🔢 [Sudoku](Sudoku.cpp) - Судоку
 
 ---
 
