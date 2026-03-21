@@ -17,7 +17,7 @@
    🧩 [🔀 Комбинаторика чрез рекурсия](Combinatorika/README.md) – Пермутации, комбинации, вариации (с и без повторения)
 
 ###  🔹 Backtracking
-   🌀 [Maze Solver](Maze/README.md) – намиране на път в лабиринт   
+   🌀 [Maze Solver](Maze/Readme.md) – намиране на път в лабиринт   
    👑 [Eight Queens](Eight_queens.cpp) – класическата задача   
    🔢 [Sudoku](Sudoku.cpp) - Судоку
 
