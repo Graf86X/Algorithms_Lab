@@ -14,7 +14,7 @@
    🔄 [🎯 Рекурсивни примери](Binary%20search.cpp) – Fibonacci, Binary Search
 
 ###  🔹 Combinatorics
-   🧩 [🔀 Комбинаторика чрез рекурсия](Combinatorika/) – Пермутации, комбинации, вариации (с и без повторения)
+   🧩 [🔀 Комбинаторика чрез рекурсия](Combinatorika/README.md) – Пермутации, комбинации, вариации (с и без повторения)
 
 ###  🔹 Backtracking
    🌀 [Maze Solver](Maze/) – намиране на път в лабиринт   
